@@ -1,4 +1,4 @@
-module github.com/richardwilkes/unison
+module github.com/ImmanuelMc/unison
 
 go 1.19
 
